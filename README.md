@@ -1,5 +1,5 @@
 <header>
-  <img src="https://binarapps.com/wp-content/uploads/2020/12/3.What-is-Full-Stack-Web-Development-.png.webp" width="1200px" height="300px"/>
+  <img src="https://binarapps.com/wp-content/uploads/2020/12/3.What-is-Full-Stack-Web-Development-.png.webp" width="1200px" height="200px"/>
   <div align= "center">
        <a href="https://www.linkedin.com/in/mariana-hernandez-barreto/">
   </a>
