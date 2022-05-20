@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 
-:telescope: I’m Mariana Hernández, you can call me Ari. I work as Front-end developer and I'm focusing my way on the use of React.
+:telescope: Hi! I’m Mariana Hernández Barreto, but you can call me Ari. I work as Front-end developer and I'm focusing my way on the use of React.
 
 :seedling: Working on Lumine : web app for taking notes. 
 
