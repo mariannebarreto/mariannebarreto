@@ -19,7 +19,7 @@
 
 :telescope: Hi! I’m Mariana Hernández Barreto, but you can call me Ari. I work as Front-end developer and I'm focusing my way on the use of React.
 
-:seedling: Working on Lumine : web app for taking notes. 
+:seedling: Working on "Burger Queen". Using React and API's.
 
 :star2: In my free time, I love to make some digital art, play my ukelele or read a good book.
 
