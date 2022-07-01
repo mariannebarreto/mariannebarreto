@@ -19,7 +19,7 @@
 
 :telescope: Hi! I’m Mariana Hernández Barreto, but you can call me Ari. I work as Front-end developer and I'm focusing my way on the use of React.
 
-:seedling: Working on "Burger Queen". Using React and API's.
+:seedling: Working on "Aether". Journal web app to make entries. Built with React, SASS and MUI. 
 
 :star2: In my free time, I love to make some digital art, play my ukelele or read a good book.
 
